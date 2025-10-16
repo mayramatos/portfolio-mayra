@@ -1,0 +1,20 @@
+.headerContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0B0F24;
+}
+
+.headerNav{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0B0F24;
+    gap: 40px;
+}
+
+.headerLogo{
+    height: 75px;
+    width: auto;
+}
